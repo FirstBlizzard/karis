@@ -1,0 +1,86 @@
+[2021-09-25 12:17:02.321] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-25 12:17:02.321] [remoteagent] [info] Extension host agent started.
+[2021-09-25 12:17:02.532] [remoteagent] [info] [::ffff:172.28.192.1][f9ed412f][ExtensionHostConnection] New connection established.
+[2021-09-25 12:17:02.532] [remoteagent] [info] [::ffff:172.28.192.1][6888ccaf][ManagementConnection] New connection established.
+[2021-09-25 12:17:02.536] [remoteagent] [info] [::ffff:172.28.192.1][f9ed412f][ExtensionHostConnection] <295> Launched Extension Host Process.
+[2021-09-25 12:17:16.195] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2021-09-25 12:17:18.904] [remoteagent] [info] Downloaded extension: naumovs.color-highlight /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2021-09-25 12:17:19.259] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.ac17a0b1-adbe-4f84-9474-a24576ca1b75: naumovs.color-highlight
+[2021-09-25 12:17:19.305] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/naumovs.color-highlight-2.5.0
+[2021-09-25 12:17:19.307] [remoteagent] [info] Extracting completed. naumovs.color-highlight
+[2021-09-25 12:17:19.311] [remoteagent] [info] Extension installed successfully: naumovs.color-highlight
+[2021-09-25 12:17:21.700] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2021-09-25 12:17:24.704] [remoteagent] [info] Installing extension: ms-python.python
+[2021-09-25 12:17:28.019] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-09-25 12:17:28.019] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-09-25 12:17:28.019] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-25 12:17:29.697] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-25 12:17:29.759] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.04135247-00c8-4fc1-8a5d-30d3bca3ed2a: ms-toolsai.jupyter-keymap
+[2021-09-25 12:17:29.769] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-25 12:17:29.770] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-09-25 12:17:29.990] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2021-09-25 12:17:33.032] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.60.4
+[2021-09-25 12:17:33.148] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2021-09-25 12:17:33.422] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.a20a0ba5-8e51-4782-b88e-467b1917564e: ms-ceintl.vscode-language-pack-es
+[2021-09-25 12:17:33.427] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.60.4
+[2021-09-25 12:17:33.428] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2021-09-25 12:17:33.432] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2021-09-25 12:17:33.460] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2021-09-25 12:17:36.975] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.6.0
+[2021-09-25 12:17:37.362] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2021-09-25 12:17:37.670] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.d7015137-fad7-40f8-820e-5010ae271c16: ms-vscode.cpptools
+[2021-09-25 12:17:37.728] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-vscode.cpptools-1.6.0
+[2021-09-25 12:17:37.741] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2021-09-25 12:17:37.761] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-09-25 12:17:38.478] [remoteagent] [info] Extensions is already requested to install ritwickdey.liveserver
+[2021-09-25 12:17:47.286] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2021-09-25 12:17:48.121] [remoteagent] [info] Downloaded extension: ms-python.python /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.9.1246542782
+[2021-09-25 12:17:49.579] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.2041215044
+[2021-09-25 12:17:50.811] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.3be85a32-62a3-4d0b-aa3b-986f30e7133f: ms-toolsai.jupyter
+[2021-09-25 12:17:50.826] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2041215044
+[2021-09-25 12:17:50.829] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-09-25 12:17:52.491] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.1547e74b-de8d-4496-9ad5-a6d6e92efe91: ms-python.python
+[2021-09-25 12:17:52.574] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-python.python-2021.9.1246542782
+[2021-09-25 12:17:52.582] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-09-25 12:17:56.326] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.4.0
+[2021-09-25 12:17:56.387] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-09-25 12:17:56.608] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.626fcc8f-a7fc-4312-bb3c-dafe0e7f53a2: christian-kohler.path-intellisense
+[2021-09-25 12:17:56.709] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/christian-kohler.path-intellisense-2.4.0
+[2021-09-25 12:17:56.710] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2021-09-25 12:17:56.786] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2021-09-25 12:17:58.513] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.a9f03e22-3c20-4158-8e0e-87c12c0a2aba: ritwickdey.liveserver
+[2021-09-25 12:17:58.711] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ritwickdey.liveserver-5.6.1
+[2021-09-25 12:17:58.716] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2021-09-25 12:17:58.896] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2021-09-25 12:18:05.066] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.0.0
+[2021-09-25 12:18:05.624] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.d4bd28eb-ea9a-4ad8-bdad-34b8d2963a0f: esbenp.prettier-vscode
+[2021-09-25 12:18:05.655] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/esbenp.prettier-vscode-9.0.0
+[2021-09-25 12:18:05.656] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2021-09-25 12:18:05.661] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-09-25 12:18:09.075] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.3
+[2021-09-25 12:18:12.110] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.bfa375cc-8d30-40b4-a890-660197ce72a4: ms-python.vscode-pylance
+[2021-09-25 12:18:12.165] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.3
+[2021-09-25 12:18:12.167] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-25 12:18:12.175] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-09-25 12:18:12.175] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-09-25 12:18:12.175] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-09-25 12:18:12.175] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-09-25 12:21:16.199] [remoteagent] [info] [::ffff:172.28.192.1][6888ccaf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-25 12:21:17.323] [remoteagent] [info] [::ffff:172.28.192.1][f9ed412f][ExtensionHostConnection] <295> Extension Host Process exited with code: 0, signal: null.
+[2021-09-25 12:21:17.324] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-25 12:21:18.759] [remoteagent] [info] [::ffff:172.28.192.1][cd038fc4][ManagementConnection] New connection established.
+[2021-09-25 12:21:18.774] [remoteagent] [info] [::ffff:172.28.192.1][4f394765][ExtensionHostConnection] New connection established.
+[2021-09-25 12:21:18.850] [remoteagent] [info] [::ffff:172.28.192.1][4f394765][ExtensionHostConnection] <379> Launched Extension Host Process.
+[2021-09-25 12:21:26.108] [remoteagent] [info] [::ffff:172.28.192.1][cd038fc4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-25 12:21:27.174] [remoteagent] [info] [::ffff:172.28.192.1][4f394765][ExtensionHostConnection] <379> Extension Host Process exited with code: 0, signal: null.
+[2021-09-25 12:21:27.174] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-25 12:21:27.175] [remoteagent] [info] Last EH closed, waiting before shutting down

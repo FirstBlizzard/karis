@@ -1,0 +1,35 @@
+[2021-10-12 00:18:32.302] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-10-12 00:18:32.303] [remoteagent] [info] Extension host agent started.
+[2021-10-12 00:18:32.478] [remoteagent] [info] [::ffff:172.28.192.1][7c701bda][ManagementConnection] New connection established.
+[2021-10-12 00:18:32.577] [remoteagent] [info] [::ffff:172.28.192.1][2abf16fe][ExtensionHostConnection] New connection established.
+[2021-10-12 00:18:32.728] [remoteagent] [info] [::ffff:172.28.192.1][2abf16fe][ExtensionHostConnection] <702> Launched Extension Host Process.
+[2021-10-12 00:18:32.767] [remoteagent] [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/firstblizzard/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.60.4
+[2021-10-12 00:18:33.252] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter /home/firstblizzard/.vscode-server/extensions/ms-toolsai.jupyter-2021.8.2041215044
+[2021-10-12 00:18:33.398] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/firstblizzard/.vscode-server/extensions/ms-python.vscode-pylance-2021.9.3
+[2021-10-12 00:18:33.477] [remoteagent] [info] Deleted from disk ms-python.python /home/firstblizzard/.vscode-server/extensions/ms-python.python-2021.9.1246542782
+[2021-10-12 00:18:49.224] [remoteagent] [info] [::ffff:172.28.192.1][7c701bda][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-10-12 00:18:50.299] [remoteagent] [info] [::ffff:172.28.192.1][2abf16fe][ExtensionHostConnection] <702> Extension Host Process exited with code: 0, signal: null.
+[2021-10-12 00:18:50.299] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-10-12 00:18:51.747] [remoteagent] [info] [::ffff:172.28.192.1][5897f337][ManagementConnection] New connection established.
+[2021-10-12 00:18:51.815] [remoteagent] [info] [::ffff:172.28.192.1][af07250d][ExtensionHostConnection] New connection established.
+[2021-10-12 00:18:51.878] [remoteagent] [info] [::ffff:172.28.192.1][af07250d][ExtensionHostConnection] <747> Launched Extension Host Process.
+[2021-10-12 00:19:15.258] [remoteagent] [info] Uninstalling extension: ritwickdey.liveserver
+[2021-10-12 00:19:15.769] [remoteagent] [info] Detected extension removed from another source ritwickdey.liveserver
+[2021-10-12 00:19:16.002] [remoteagent] [info] Successfully uninstalled extension: ritwickdey.liveserver
+[2021-10-12 00:19:18.490] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2021-10-12 00:19:18.743] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-10-12 00:19:18.829] [remoteagent] [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+[2021-10-12 00:19:18.835] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2021-10-12 00:19:29.224] [remoteagent] [info] [::ffff:172.28.192.1][5897f337][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-10-12 00:19:30.268] [remoteagent] [info] [::ffff:172.28.192.1][af07250d][ExtensionHostConnection] <747> Extension Host Process exited with code: 0, signal: null.
+[2021-10-12 00:19:30.268] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-10-12 00:19:30.268] [remoteagent] [info] Last EH closed, waiting before shutting down

@@ -1,0 +1,60 @@
+[2021-09-25 12:17:03.250] [exthost] [info] extension host started
+[2021-09-25 12:17:03.271] [exthost] [info] Lock '/home/firstblizzard/.vscode-server/data/User/workspaceStorage/35f82ffa89812a47a955d63179df4b55/vscode.lock': Lock acquired.
+[2021-09-25 12:17:03.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-25 12:17:03.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/debug-auto-launch/dist/extension
+[2021-09-25 12:17:03.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-25 12:17:03.382] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/git/dist/main
+[2021-09-25 12:17:03.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-25 12:17:03.637] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/github/dist/extension.js
+[2021-09-25 12:17:03.678] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-25 12:17:03.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-25 12:17:03.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-25 12:17:03.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-25 12:17:03.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-25 12:17:03.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-25 12:17:03.931] [exthost] [info] eager extensions activated
+[2021-09-25 12:17:12.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-25 12:17:12.699] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-25 12:17:12.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-25 12:17:12.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-25 12:17:12.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-09-25 12:17:12.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-25 12:17:12.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-25 12:17:12.911] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/npm/dist/npmMain
+[2021-09-25 12:17:38.300] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2021-09-25 12:17:38.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/ms-vscode.cpptools-1.6.0/dist/main
+[2021-09-25 12:17:42.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-09-25 12:17:42.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/extensions/typescript-language-features/dist/extension
+[2021-09-25 12:17:56.967] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-09-25 12:17:56.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-09-25 12:17:59.122] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":false,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-09-25 12:17:59.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-09-25 12:21:16.196] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-25 12:21:16.198] [exthost] [info] Lock '/home/firstblizzard/.vscode-server/data/User/workspaceStorage/35f82ffa89812a47a955d63179df4b55/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-25 12:21:16.291] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+	at Object.deactivate (/home/firstblizzard/.vscode-server/extensions/ms-vscode.cpptools-1.6.0/dist/main.js:46550:13)
+	at Object.deactivate (/home/firstblizzard/.vscode-server/extensions/ms-vscode.cpptools-1.6.0/dist/main.js:51553:27)
+	at v._deactivate (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:99:11277)
+	at /home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:99:9979)
+	at E.terminate (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:103:723)
+	at a (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:113:32208)
+	at /home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:113:30124
+	at c.fire (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at l.fire (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:74:15781)
+	at r._receiveMessage (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:74:21051)
+	at /home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:74:17929
+	at c.fire (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at v.acceptChunk (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:74:13142)
+	at /home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:74:12490
+	at c.fire (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at E._acceptChunk (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:113:19362)
+	at /home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:113:15775
+	at Socket.w (/home/firstblizzard/.vscode-server/bin/7f6ab5485bbc008386c4386d08766667e155244e/out/vs/server/remoteExtensionHostProcess.js:113:13350)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-25 12:21:17.295] [exthost] [info] exiting with code 0

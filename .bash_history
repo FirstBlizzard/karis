@@ -1,0 +1,414 @@
+pdw
+pwd
+xd ..
+cd ..
+cd home/firstblizzard
+pwd
+sudo mkdir Proyectos
+mkdir ProyectDemo
+ls
+mv ProyectDemo Proyectos
+sudo mv ProyectDemo Proyectos
+ls
+cd proyectos
+cd Proyectos
+ls
+cd ProjectDemo
+sumo cd ProyectDemo
+cd ProyectDemo
+touch index.html
+ls
+code.
+code .
+cd ~
+ld
+ls
+cd Proyectos
+ls
+cd ProyecDemo
+cd ProyectDemo
+ls
+code .
+ls
+code .
+cat
+cd ~
+man cat
+sudo apt-get update
+sudo apt-get upgrade
+node -v
+sudo apt-get node.js
+sudo apt-get Node.js
+node -v
+sudo apt install nodejs
+mpn -v
+npm -v
+sudo apt install npm
+cd Proyectos
+ls
+npx create-react-app prueba
+ls
+npx create-react-app test
+ls
+cd test
+sudo npx create-ract-app test
+sudo npx create-react-app test
+cd test
+nmp start
+npm start
+nmp start
+npm start
+ls
+code ..
+sudo chown -R firstblizzard ~/Proyectos
+npm start
+CLEAR
+clear
+ls
+cd ..
+ls
+rm -rf test
+ls
+git --version
+npm --version
+node --version
+npm -v
+sudo apt-get upgrade
+clear
+ssh -keygen -t rsa -b 4096 -C charlescastillorosas8@gmail.com
+ssh -keygen -t rsa -b 4096 -C 'charlescastillorosas8@gmail.com'
+ssh-keygen -t rsa -b 4096 -C charlescastillorosas8@gmail.com
+ls
+rm -rf n
+ls
+rm -rf n.pub
+sl
+ls
+cd ..
+cd~
+cd ~ 
+clear
+ssh-keygen -t rsa -b 4096 -C charlescastillorosas8@gmail.com
+eval "$(ssh-agent -s)"
+ls
+cd Proyectos
+ls
+cd ..
+ls
+cd ~
+ls
+cd /.ssh
+cd home
+c ..
+cd ..
+ls
+cd firstblizzard/.ssh
+clear
+ls
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDiQgxLrryLKwHr6Iyc4gMmahj4drWLjtb1lBXnI1LUtplxI/Cxo4Bl/+huRs5ZvaHJK2EA+UJ8jRhwcbBDHWkHBfyRc1Hj+T1IWjq1PWuXRmzNo1vROwz4FZcpYpbsBlNBIfcDA4axuRFct+A1bGhQSetPQYLivOetW7qem3UFl/xqDVkWXsdWGituiuCtuv31M9jFUT9UD+MHoT+e4SxxHv6brbJmiupav0DkSjvboYMDfZL9+IV0gzWeSIV81YWxAsDAVFyIGzsmLxD2jli4T561cBKWqoZgtQt5sYJJcgucRQ6ud1C6usDnrJZ9obcxUgfpXGz88zaqZDQhlvqbWSqWSYSbScnWknb9MNXZNYef8rvJmT8McJKTQ6Qm4Iy1J1ElYkNd7qBJLVD3KiCY8zIyyIkyn8r8yyY9fvu6CGOG2al/A1xwrnqAv5zr/QXSlTpN4W2irDwnhCh3BR3Byatsn8JF1JbRna/gdPRjDVeoEPnUy9FerfxEM6U6ejSXrwtxpyGeocbUyaTukVmlqe6jDl5v7gK68NCT0EphvzQGuu52/CC7AlzhZx2o6y0wfcW2TMs3YOYmbAyrDDGK2o2JY/S/H8O4TzAhnQLIDbyFMJdHRtqq999u88m+jZuaMaguRYNwSDGnpymebhgpx0m26u+wGE61Qk5Fy3b7Tw== charlescastillorosas8@gmail.com
+clear
+ls
+cd ~
+ls
+cd Proyectos
+ls
+echo "# ProyectDemo" >> README.md
+ls
+cd ProyectDemo
+echo "# ProyectDemo" >> README.md
+ls
+git init
+git add
+git add .
+git commit -m "first commit"
+gits config --global user.email charlescastillorosas8@gmail.com
+git config --global users.email charlescastillorosas8@gmail.com
+git config --global user.name firstblizzard
+git config --edit --global
+git config --global user.name FirstBlizzard
+git config --edit --global
+git commit -m "first commit"
+git remote add origin https://github.com/FirstBlizzard/ProyectDemo.git
+git push -origin master
+git push -u origin main
+git branch -M main
+git remote add origin https://github.com/FirstBlizzard/ProyectDemo.git
+git push -u origin main
+git config --global user.email https://github.com/FirstBlizzard/ProyectDemo.git
+git push -u origin main
+git commit -m "first commit"
+clean
+sudo clean
+clean
+clear
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/FirstBlizzard/ProyectDemo.git
+git push -u origin main
+ls
+cd ~
+ls
+cd Proyectos
+ls
+ProyectDemo
+rm -rf README.md
+ls
+cd ..
+rm -rf Proyectos
+ls
+clear
+sudo mkdir proyecto
+ls
+cd proyecto
+echo "# karis" >> README.md
+sudo echo "# karis" >> README.md
+ls
+echo "# karis" >> README.md
+cd ..
+rm -rf proyectos
+sudo mkadir karis
+sudo mkdir karis
+cd karis
+echo "# karis" >> README.md
+cd ..
+echo "# karis" >> README.md
+ls
+rm .rf proyecto
+rm -rf proyecto
+ls
+cd karis
+ls
+echo "# karis" >> README.md
+rm -rf README.md
+ls
+cd ..
+ls
+rm -rf karis
+ls
+rm -rf README.md
+ls
+sudo mkdir Proyectos
+ls
+cd Proyectos
+sudo mkdir karis
+echo "# karis" >> README.md
+ls
+-bash: README.md: Permission denied
+-bash: README.md: Permission denicd ..
+cd ..
+ls
+echo "# karis" >> README.md
+ls
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:FirstBlizzard/karis.git
+git push -u origin main
+cd firstblizzard
+ls
+cd .ssh
+ls
+cat id_rsa
+git push -u origin main
+ls
+cat id_rsa.pub
+git push -u origin main
+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
+clear
+ls
+cat id_rsa
+git push -u origin main
+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
+git remote add origin git@github.com:FirstBlizzard/karis.git
+ls
+cat id_rsa
+cd ~
+ls
+git push -u origin main
+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
+LS
+ls
+cd ~
+ls
+rm -rf README.md
+ls
+cd Proyectos
+ls
+cd karis
+ls
+clear
+git int
+git init
+sudo git int
+clear
+git init
+sudo git init
+git add README.md
+sudo git add README.md
+git status
+git add .
+sudo git add .
+git commit -m "first commit"
+sudo git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:FirstBlizzard/karis.git
+git push -u origin main
+ls
+git commit -m "Agregar"
+sudo mkdir index.html
+ls
+git init
+sudo git init
+git add index.html
+sudo git add html
+sudo git add index.html
+git commit -m "agregar"
+sudo git commit -m "agregar"
+git branch -M main
+git branch -M master
+git fetch
+sudo git fetch
+sudo git reset --hard origin/master
+sudo git reset -- hard origin/master
+git branch -M main
+git branch -M master
+clear

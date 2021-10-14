@@ -1,0 +1,51 @@
+[2021-10-12 00:13:57.381] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-10-12 00:13:57.381] [remoteagent] [info] Extension host agent started.
+[2021-10-12 00:13:57.807] [remoteagent] [info] [::ffff:172.28.192.1][9fbc7058][ManagementConnection] New connection established.
+[2021-10-12 00:13:57.810] [remoteagent] [info] [::ffff:172.28.192.1][7c4781f8][ExtensionHostConnection] New connection established.
+[2021-10-12 00:13:58.073] [remoteagent] [info] [::ffff:172.28.192.1][7c4781f8][ExtensionHostConnection] <278> Launched Extension Host Process.
+[2021-10-12 00:14:02.436] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2021-10-12 00:14:02.458] [remoteagent] [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+[2021-10-12 00:14:02.484] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-12 00:14:02.625] [remoteagent] [info] Installing extension: ms-python.python
+[2021-10-12 00:14:02.632] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-12 00:14:05.836] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-10-12 00:14:07.064] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.61.4
+[2021-10-12 00:14:07.741] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.31bfe05c-5274-436e-ad6e-2e9a37b4e5c0: ms-ceintl.vscode-language-pack-es
+[2021-10-12 00:14:07.754] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.61.4
+[2021-10-12 00:14:07.761] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2021-10-12 00:14:07.769] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2021-10-12 00:14:07.898] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2021-10-12 00:14:13.239] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.3
+[2021-10-12 00:14:14.078] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.f5adbbb3-e904-4cb2-a6c5-440a1efc72f4: ms-toolsai.jupyter-renderers
+[2021-10-12 00:14:14.094] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.3
+[2021-10-12 00:14:14.097] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-10-12 00:14:18.356] [remoteagent] [info] Downloaded extension: ms-python.python /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.10.1317843341
+[2021-10-12 00:14:20.267] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.10.0
+[2021-10-12 00:14:21.152] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.64a139aa-0d47-44ea-b657-c9d97ab1883a: ms-python.python
+[2021-10-12 00:14:21.170] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-python.python-2021.10.1317843341
+[2021-10-12 00:14:21.173] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-10-12 00:14:21.193] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-10-12 00:14:24.085] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.e37add43-08d3-4930-9a8e-4b036520302c: ms-python.vscode-pylance
+[2021-10-12 00:14:24.097] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-python.vscode-pylance-2021.10.0
+[2021-10-12 00:14:24.099] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-10-12 00:14:24.103] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-10-12 00:14:26.053] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/firstblizzard/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.9.1001312534
+[2021-10-12 00:14:26.758] [remoteagent] [info] Extracted extension to /home/firstblizzard/.vscode-server/extensions/.b9941061-e683-4e4c-9599-0b247081b5bf: ms-toolsai.jupyter
+[2021-10-12 00:14:26.767] [remoteagent] [info] Renamed to /home/firstblizzard/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1001312534
+[2021-10-12 00:14:26.769] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-10-12 00:14:26.774] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-10-12 00:14:26.774] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-10-12 00:14:50.225] [remoteagent] [info] [::ffff:172.28.192.1][7c4781f8][ExtensionHostConnection] <278> [0mGET /favicon.ico [33m404 [0m8.008 ms - 150[0m
+
+[2021-10-12 00:18:17.948] [remoteagent] [info] [::ffff:172.28.192.1][9fbc7058][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-10-12 00:18:19.169] [remoteagent] [info] [::ffff:172.28.192.1][7c4781f8][ExtensionHostConnection] <278> Extension Host Process exited with code: 0, signal: null.
+[2021-10-12 00:18:19.170] [remoteagent] [info] Last EH closed, waiting before shutting down

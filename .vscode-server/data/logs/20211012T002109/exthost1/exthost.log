@@ -1,0 +1,28 @@
+[2021-10-12 00:21:10.646] [exthost] [info] extension host started
+[2021-10-12 00:21:10.664] [exthost] [info] Lock '/home/firstblizzard/.vscode-server/data/User/workspaceStorage/35f82ffa89812a47a955d63179df4b55/vscode.lock': Lock acquired.
+[2021-10-12 00:21:10.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-12 00:21:10.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-12 00:21:10.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-12 00:21:10.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-12 00:21:10.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-12 00:21:10.791] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/debug-auto-launch/dist/extension
+[2021-10-12 00:21:10.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-12 00:21:10.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/git/dist/main
+[2021-10-12 00:21:10.856] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2021-10-12 00:21:10.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-10-12 00:21:10.865] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-10-12 00:21:10.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js
+[2021-10-12 00:21:10.886] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-10-12 00:21:10.886] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-10-12 00:21:11.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-12 00:21:11.244] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/github/dist/extension.js
+[2021-10-12 00:21:11.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-12 00:21:11.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-12 00:21:11.291] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-12 00:21:11.291] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-12 00:21:11.728] [exthost] [info] eager extensions activated
+[2021-10-12 00:21:11.735] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-12 00:21:11.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/firstblizzard/.vscode-server/bin/ee8c7def80afc00dd6e593ef12f37756d8f504ea/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-12 00:28:25.012] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-10-12 00:28:25.013] [exthost] [info] Lock '/home/firstblizzard/.vscode-server/data/User/workspaceStorage/35f82ffa89812a47a955d63179df4b55/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-10-12 00:28:26.068] [exthost] [info] exiting with code 0
